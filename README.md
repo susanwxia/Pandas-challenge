@@ -1,5 +1,5 @@
 # Pandas-challenge
-In this challenge, Pandas is being used to analyze the data of game items sales for a fantasy game named Heroes of Pymoli. 
+In this challenge, Pandas is being used to analyze the sales data of game items for a fantasy game named Heroes of Pymoli. 
 Some conclusions are drawn and listed below:
 
 Conclusion 1: The majority of players that purchased the game items are males.
@@ -11,7 +11,7 @@ younger or older than this age span tend to purchase less game items.
 
 ![image](https://user-images.githubusercontent.com/78228812/114345389-79347980-9b16-11eb-961f-b6b7e2dbf8e7.png)
 
-Conclusion 3: Final Critic is the most popular item that players purchased. It is also the most profitable item.
+Conclusion 3: "Final Critic" is the most popular item that players purchased. It is also the most profitable item.
 
 ![image](https://user-images.githubusercontent.com/78228812/114351745-e4367e00-9b1f-11eb-91a1-fe40af97d617.png)
 
